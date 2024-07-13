@@ -1,3 +1,5 @@
+import sys
+import mediapipe
 print("hello world")
 a = 1
 b = 2
@@ -6,4 +8,5 @@ print(c)
 a = [1,2,4,3]
 for i in a:
     print(i)
-git init
+sys.exit(0)
+
